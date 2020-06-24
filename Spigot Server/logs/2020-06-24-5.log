@@ -1,0 +1,256 @@
+[11:34:43] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[11:34:43] [Server thread/INFO]: Loading properties
+[11:34:43] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a99063f-be6aaf0 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[11:34:43] [Server thread/INFO]: Debug logging is disabled
+[11:34:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:34:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:34:43] [Server thread/INFO]: Default game type: CREATIVE
+[11:34:43] [Server thread/INFO]: Generating keypair
+[11:34:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:34:44] [Server thread/INFO]: Using default channel type
+[11:34:48] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[11:34:48] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@231fb3ca]
+[11:34:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[11:34:49] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:34:50] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[11:34:51] [Server thread/WARN]: [WorldEdit] ====================================================
+[11:34:51] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[11:34:51] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[11:34:51] [Server thread/WARN]: [WorldEdit]   
+[11:34:51] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[11:34:51] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[11:34:51] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[11:34:51] [Server thread/WARN]: [WorldEdit]   
+[11:34:51] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[11:34:51] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[11:34:51] [Server thread/WARN]: [WorldEdit]   
+[11:34:51] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[11:34:51] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[11:34:51] [Server thread/WARN]: [WorldEdit]   
+[11:34:51] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[11:34:51] [Server thread/WARN]: [WorldEdit] ====================================================
+[11:34:51] [Server thread/INFO]: Preparing level "world"
+[11:34:51] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:34:51] [Server thread/INFO]: Loaded 6 recipes
+[11:34:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[11:34:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:34:51] [Server thread/INFO]: View Distance: 10
+[11:34:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:34:51] [Server thread/INFO]: Mob Spawn Range: 6
+[11:34:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:34:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:34:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:34:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:34:51] [Server thread/INFO]: Max TNT Explosions: 100
+[11:34:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:34:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:34:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:34:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:34:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:34:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:34:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[11:34:51] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:34:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[11:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: View Distance: 10
+[11:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:34:52] [Server thread/INFO]: Mob Spawn Range: 6
+[11:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[11:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[11:34:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[11:34:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:34:52] [Server thread/INFO]: View Distance: 10
+[11:34:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:34:52] [Server thread/INFO]: Mob Spawn Range: 6
+[11:34:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:34:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:34:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:34:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:34:52] [Server thread/INFO]: Max TNT Explosions: 100
+[11:34:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:34:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:34:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:34:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:34:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:34:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:34:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[11:34:52] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[11:34:53] [Server thread/INFO]: Preparing spawn area: 0%
+[11:34:53] [Server thread/INFO]: Preparing spawn area: 0%
+[11:34:53] [Server thread/INFO]: Preparing spawn area: 0%
+[11:34:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:34:54] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[11:34:54] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:34:55] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[11:34:55] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[11:34:56] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[11:34:56] [Server-Worker-4/INFO]: Preparing spawn area: 87%
+[11:34:57] [Server-Worker-6/INFO]: Preparing spawn area: 90%
+[11:34:57] [Server-Worker-7/INFO]: Preparing spawn area: 95%
+[11:34:58] [Server-Worker-2/INFO]: Preparing spawn area: 98%
+[11:34:58] [Server thread/INFO]: Time elapsed: 6306 ms
+[11:34:58] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[11:34:59] [Server thread/INFO]: Preparing spawn area: 0%
+[11:34:59] [Server thread/INFO]: Preparing spawn area: 0%
+[11:34:59] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[11:34:59] [Server-Worker-7/INFO]: Preparing spawn area: 84%
+[11:35:00] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[11:35:00] [Server thread/INFO]: Time elapsed: 2019 ms
+[11:35:00] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[11:35:00] [Server thread/INFO]: Preparing spawn area: 0%
+[11:35:00] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[11:35:01] [Server thread/INFO]: Time elapsed: 947 ms
+[11:35:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:35:01] [Server thread/INFO]: Done (10.258s)! For help, type "help"
+[11:35:32] [User Authenticator #1/INFO]: UUID of player DrKiefer is 7ff7e205-a488-4a71-b09b-b56a0c54f294
+[11:35:32] [Server thread/INFO]: DrKiefer[/192.168.0.20:63436] logged in with entity id 102 at ([world]186.5, 68.0, 171.5)
+[11:39:15] [User Authenticator #2/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
+[11:39:15] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:64455] logged in with entity id 1568 at ([world]170.5, 63.0, 171.5)
+[11:42:18] [Server thread/INFO]: CrZyGoaT37 issued server command: //removebelow
+[11:42:34] [Server thread/INFO]: CrZyGoaT37 issued server command: //removebelow
+[11:42:40] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
+[11:42:55] [Server thread/INFO]: CrZyGoaT37 issued server command: //removenear
+[11:44:22] [Server thread/INFO]: CrZyGoaT37 issued server command: /effect give @s minecraft:speed 120 250
+[11:44:22] [Server thread/INFO]: [CrZyGoaT37: Applied effect Speed to CrZyGoaT37]
+[11:44:23] [Server thread/WARN]: CrZyGoaT37 moved too quickly! -0.2412685606281002,-0.07840000152587834,10.527539267539964
+[11:45:04] [Server thread/WARN]: CrZyGoaT37 moved too quickly! 6.52526081282042,9.182994589276078,18.120580897937543
+[11:45:04] [Server thread/WARN]: DrKiefer moved too quickly! -31.81156326123073,0.4266155262575353,-1.9955730843894344
+[11:45:04] [Server thread/WARN]: DrKiefer moved too quickly! -30.787058470372585,0.4315416341707845,-1.8141383304475767
+[11:45:04] [Server thread/WARN]: DrKiefer moved too quickly! -30.787058470372585,0.4315416341707845,-1.8141383304475767
+[11:46:01] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[11:46:01] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[11:46:53] [User Authenticator #3/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[11:46:53] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:57705] logged in with entity id 14481 at ([world]170.5, 65.0, 174.5)
+[11:47:41] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:stone minecraft:air
+[11:49:58] [Server thread/INFO]: DrKiefer issued server command: /locate Mansion
+[11:50:04] [Server thread/WARN]: DrKiefer moved too quickly! -0.0678361427812888,0.0,10.292719643540082
+[11:52:36] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[11:52:36] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[11:54:31] [Server thread/INFO]: DrKiefer issued server command: /tp DrKiefer CrZyGoaT37
+[11:54:31] [Server thread/INFO]: [DrKiefer: Teleported DrKiefer to CrZyGoaT37]
+[11:54:31] [Server thread/WARN]: DrKiefer moved too quickly! 587.8667381087498,41.40786510557953,4531.469990616566
+[11:54:39] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[11:54:39] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[11:55:53] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[11:55:53] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[11:59:10] [Server thread/INFO]: JellyBeanQueen15 has made the advancement [Monster Hunter]
+[12:00:20] [Server thread/INFO]: JellyBeanQueen15 has made the advancement [Stone Age]
+[12:03:07] [Server thread/INFO]: CrZyGoaT37 issued server command: /give @s minecraft:command_block
+[12:03:07] [Server thread/INFO]: [CrZyGoaT37: Gave 1 [Command Block] to CrZyGoaT37]
+[12:04:13] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamerule commandBlockOutput true
+[12:04:13] [Server thread/INFO]: [CrZyGoaT37: Gamerule commandBlockOutput is now set to: true]
+[12:06:09] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[12:06:09] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[12:06:24] [Server thread/INFO]: CrZyGoaT37 issued server command: /spawnpoint @s
+[12:06:24] [Server thread/INFO]: [CrZyGoaT37: Set spawn point to 661, 140, 1554 for CrZyGoaT37]
+[12:07:34] [Server thread/INFO]: CrZyGoaT37 issued server command: /tp JellyBeanQueen15
+[12:07:34] [Server thread/INFO]: [CrZyGoaT37: Teleported CrZyGoaT37 to JellyBeanQueen15]
+[12:08:12] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[12:08:23] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[12:08:32] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[12:08:32] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[12:09:52] [Server thread/INFO]: JellyBeanQueen15 has made the advancement [Acquire Hardware]
+[12:13:29] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill JellyBeanQueen15
+[12:13:29] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[12:13:29] [Server thread/INFO]: [CrZyGoaT37: Killed JellyBeanQueen15]
+[12:13:53] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[12:13:53] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[12:14:04] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[12:14:04] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[12:14:04] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[12:16:11] [Server thread/INFO]: CrZyGoaT37 issued server command: /tp JellyBeanQueen15 @s
+[12:16:11] [Server thread/INFO]: [CrZyGoaT37: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[12:16:27] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[12:16:27] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[12:16:32] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[12:16:32] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[12:17:21] [Server thread/INFO]: CrZyGoaT37 issued server command: /give @s minecraft:command_block
+[12:17:21] [Server thread/INFO]: [CrZyGoaT37: Gave 1 [Command Block] to CrZyGoaT37]
+[12:17:36] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp c
+[12:17:42] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[12:17:42] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[12:18:48] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode survival JellyBeanQueen15
+[12:18:48] [Server thread/INFO]: [CrZyGoaT37: Set JellyBeanQueen15's game mode to Survival Mode]
+[12:18:59] [Server thread/INFO]: JellyBeanQueen15 issued server command: /gamemode creative
+[12:18:59] [Server thread/INFO]: [JellyBeanQueen15: Set own game mode to Creative Mode]
+[12:19:01] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill JellyBeanQueen15
+[12:19:01] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[12:19:01] [Server thread/INFO]: [CrZyGoaT37: Killed JellyBeanQueen15]
+[12:19:07] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[12:19:07] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[12:19:14] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[12:19:14] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[12:19:14] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[12:20:20] [Server thread/INFO]: CrZyGoaT37 issued server command: /tp @e @s
+[12:20:20] [Server thread/INFO]: [CrZyGoaT37: Teleported 523 entities to CrZyGoaT37]
+[12:20:21] [Server thread/INFO]: Villager EntityVillager['Nitwit'/14811, l='world', x=978.39, y=75.00, z=1473.60] died, message: 'Nitwit hit the ground too hard'
+[12:20:22] [Server thread/INFO]: Villager EntityVillager['Villager'/14701, l='world', x=1058.40, y=70.00, z=1483.48] died, message: 'Villager hit the ground too hard'
+[12:20:22] [Server thread/INFO]: Villager EntityVillager['Villager'/14070, l='world', x=1103.46, y=69.00, z=1563.90] died, message: 'Villager hit the ground too hard'
+[12:20:22] [Server thread/INFO]: Villager EntityVillager['Villager'/14815, l='world', x=1116.66, y=69.00, z=1553.05] died, message: 'Villager hit the ground too hard'
+[12:20:22] [Server thread/INFO]: Villager EntityVillager['Villager'/14706, l='world', x=1103.20, y=67.00, z=1487.95] died, message: 'Villager hit the ground too hard'
+[12:20:47] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamerule keepInventory true
+[12:20:47] [Server thread/INFO]: [CrZyGoaT37: Gamerule keepInventory is now set to: true]
+[12:20:53] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill @s
+[12:20:53] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[12:20:53] [Server thread/INFO]: [CrZyGoaT37: Killed CrZyGoaT37]
+[12:21:08] [Server thread/INFO]: JellyBeanQueen15 issued server command: /tp CrZyGoaT37
+[12:21:08] [Server thread/INFO]: [JellyBeanQueen15: Teleported JellyBeanQueen15 to CrZyGoaT37]
+[12:22:02] [Server thread/INFO]: DrKiefer issued server command: /tp DrKiefer CrZyGoaT37
+[12:22:02] [Server thread/INFO]: [DrKiefer: Teleported DrKiefer to CrZyGoaT37]
+[12:22:28] [Server thread/INFO]: DrKiefer lost connection: Disconnected
+[12:22:28] [Server thread/INFO]: DrKiefer left the game

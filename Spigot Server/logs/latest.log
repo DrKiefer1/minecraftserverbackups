@@ -1,148 +1,155 @@
-[22:38:12] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[22:38:12] [Server thread/INFO]: Loading properties
-[22:38:12] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-a99063f-be6aaf0 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[22:38:12] [Server thread/INFO]: Debug logging is disabled
-[22:38:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:38:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:38:12] [Server thread/INFO]: Default game type: CREATIVE
-[22:38:12] [Server thread/INFO]: Generating keypair
-[22:38:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:38:13] [Server thread/INFO]: Using default channel type
-[22:38:16] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[22:38:16] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@660ecebf]
-[22:38:16] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[22:38:16] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[22:38:18] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[22:38:18] [Server thread/WARN]: [WorldEdit] ====================================================
-[22:38:18] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
-[22:38:18] [Server thread/WARN]: [WorldEdit]  as your server software. 
-[22:38:18] [Server thread/WARN]: [WorldEdit]   
-[22:38:18] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
-[22:38:18] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
-[22:38:18] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
-[22:38:18] [Server thread/WARN]: [WorldEdit]   
-[22:38:18] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
-[22:38:18] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
-[22:38:18] [Server thread/WARN]: [WorldEdit]   
-[22:38:18] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
-[22:38:18] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
-[22:38:18] [Server thread/WARN]: [WorldEdit]   
-[22:38:18] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
-[22:38:18] [Server thread/WARN]: [WorldEdit] ====================================================
-[22:38:18] [Server thread/INFO]: Preparing level "world"
-[22:38:19] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[22:38:19] [Server thread/INFO]: Loaded 6 recipes
-[22:38:19] [Server thread/INFO]: -------- World Settings For [world] --------
-[22:38:19] [Server thread/INFO]: View Distance: 10
-[22:38:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:38:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:38:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[22:38:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:38:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:38:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:38:19] [Server thread/INFO]: Mob Spawn Range: 6
-[22:38:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:38:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Potato Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[22:38:19] [Server thread/INFO]: Max TNT Explosions: 100
-[22:38:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:38:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:38:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:38:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[22:38:19] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[22:38:19] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[22:38:19] [Server thread/INFO]: View Distance: 10
-[22:38:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:38:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:38:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[22:38:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:38:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:38:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:38:19] [Server thread/INFO]: Mob Spawn Range: 6
-[22:38:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:38:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Potato Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[22:38:19] [Server thread/INFO]: Max TNT Explosions: 100
-[22:38:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:38:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:38:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:38:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[22:38:19] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[22:38:19] [Server thread/INFO]: View Distance: 10
-[22:38:19] [Server thread/INFO]: Item Merge Radius: 2.5
-[22:38:19] [Server thread/INFO]: Item Despawn Rate: 6000
-[22:38:19] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[22:38:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[22:38:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[22:38:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[22:38:19] [Server thread/INFO]: Mob Spawn Range: 6
-[22:38:19] [Server thread/INFO]: Experience Merge Radius: 3.0
-[22:38:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Cane Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Melon Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Potato Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Vine Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[22:38:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[22:38:19] [Server thread/INFO]: Max TNT Explosions: 100
-[22:38:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[22:38:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[22:38:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[22:38:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[22:38:19] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
-[22:38:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:38:20] [Server thread/INFO]: Preparing spawn area: 0%
-[22:38:20] [Server thread/INFO]: Time elapsed: 966 ms
-[22:38:20] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
-[22:38:21] [Server thread/INFO]: Preparing spawn area: 0%
-[22:38:21] [Server thread/INFO]: Preparing spawn area: 0%
-[22:38:21] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[22:38:22] [Server-Worker-7/INFO]: Preparing spawn area: 83%
-[22:38:22] [Server-Worker-2/INFO]: Preparing spawn area: 91%
-[22:38:23] [Server thread/INFO]: Time elapsed: 2278 ms
-[22:38:23] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
-[22:38:23] [Server thread/INFO]: Preparing spawn area: 0%
-[22:38:23] [Server-Worker-4/INFO]: Preparing spawn area: 83%
-[22:38:23] [Server thread/INFO]: Time elapsed: 795 ms
-[22:38:23] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:38:24] [Server thread/INFO]: Done (5.134s)! For help, type "help"
+[10:19:04] [User Authenticator #11/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
+[10:19:04] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:65381] logged in with entity id 126043 at ([world]660.5, 140.0, 1552.5)
+[10:19:21] [Server thread/INFO]: CrZyGoaT37 fell from a high place
+[10:19:52] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode creative
+[10:19:52] [Server thread/INFO]: [CrZyGoaT37: Set own game mode to Creative Mode]
+[10:21:17] [Server thread/INFO]: CrZyGoaT37 issued server command: /spawnpoint
+[10:21:17] [Server thread/INFO]: [CrZyGoaT37: Set spawn point to 529, 63, 1862 for CrZyGoaT37]
+[10:21:22] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill @e
+[10:21:22] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[10:21:22] [Server thread/INFO]: [CrZyGoaT37: Killed 136 entities]
+[10:22:39] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:water
+[10:23:03] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:white_wool minecraft:air
+[10:23:35] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:white_wool minecraft:air
+[10:25:35] [Server thread/INFO]: CrZyGoaT37 issued server command: /effect give @s minecraft:night_vision 100000 250
+[10:25:35] [Server thread/INFO]: [CrZyGoaT37: Applied effect Night Vision to CrZyGoaT37]
+[10:31:03] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[10:31:03] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[10:38:07] [User Authenticator #12/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[10:38:07] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59492] logged in with entity id 130207 at ([world]592.681203387026, 142.89206780586915, 1485.4393451655687)
+[10:38:45] [Server thread/INFO]: JellyBeanQueen15 issued server command: /gamemode creative
+[10:38:45] [Server thread/INFO]: [JellyBeanQueen15: Set own game mode to Creative Mode]
+[10:38:49] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill
+[10:38:49] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[10:38:49] [Server thread/INFO]: [JellyBeanQueen15: Killed JellyBeanQueen15]
+[10:42:54] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[10:42:54] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[10:44:20] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[10:44:20] [Server thread/INFO]: JellyBeanQueen15 left the game
+[10:44:24] [User Authenticator #13/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[10:44:24] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59538] logged in with entity id 132220 at ([world]581.6999999880791, 140.14731997645077, 1850.199999988079)
+[10:44:31] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[10:44:31] [Server thread/INFO]: JellyBeanQueen15 left the game
+[10:44:54] [User Authenticator #14/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[10:44:54] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59549] logged in with entity id 132346 at ([world]581.6999999880791, 140.14731997645077, 1850.199999988079)
+[10:45:54] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[10:45:54] [Server thread/INFO]: JellyBeanQueen15 left the game
+[10:47:16] [User Authenticator #15/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[10:47:16] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59573] logged in with entity id 132836 at ([world]582.9029771943057, 142.60197697268538, 1835.5271290802405)
+[10:54:17] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[10:54:17] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[10:55:49] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill @e
+[10:55:49] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[10:55:49] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[10:55:49] [Server thread/INFO]: [CrZyGoaT37: Killed 273 entities]
+[10:57:23] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode adventure JellyBeanQueen15
+[10:57:23] [Server thread/INFO]: [CrZyGoaT37: Set JellyBeanQueen15's game mode to Adventure Mode]
+[10:57:37] [Server thread/INFO]: JellyBeanQueen15 issued server command: /gamemode creative
+[10:57:37] [Server thread/INFO]: [JellyBeanQueen15: Set own game mode to Creative Mode]
+[10:57:38] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode creative JellyBeanQueen15
+[10:58:15] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill JellyBeanQueen15
+[10:58:15] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[10:58:15] [Server thread/INFO]: [CrZyGoaT37: Killed JellyBeanQueen15]
+[11:01:33] [Server thread/INFO]: CrZyGoaT37 issued server command: /spawnpoint
+[11:01:33] [Server thread/INFO]: [CrZyGoaT37: Set spawn point to 583, 133, 1854 for CrZyGoaT37]
+[11:01:35] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
+[11:01:35] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 583, 137, 1834 for JellyBeanQueen15]
+[11:03:14] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[11:03:14] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[11:03:14] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[11:04:24] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:purple_wool minecraft:tnt
+[11:04:36] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[11:04:36] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[11:04:53] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time add 3d
+[11:04:53] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1338]
+[11:05:16] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:pink_wool minecraft:creeper_head
+[11:05:43] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill
+[11:05:43] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[11:05:43] [Server thread/INFO]: [JellyBeanQueen15: Killed JellyBeanQueen15]
+[11:06:06] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:creeper_head minecraft:pink_wool
+[11:06:17] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:tnt minecraft:purple_wool
+[11:06:47] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:purple_wool minecraft:water
+[11:06:50] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
+[11:06:51] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill
+[11:06:51] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[11:06:51] [Server thread/INFO]: [JellyBeanQueen15: Killed JellyBeanQueen15]
+[11:09:54] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[11:09:54] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[11:09:54] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[11:10:32] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:sponge
+[11:10:44] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
+[11:10:51] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[11:10:51] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[11:10:51] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[11:11:10] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set night
+[11:11:10] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 13000]
+[11:11:14] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[11:11:14] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[11:12:46] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:sponge
+[11:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40926ms or 818 ticks behind
+[11:13:27] [Server thread/WARN]: CrZyGoaT37 moved too quickly! 0.3941548627408338,10.312500617038765,-0.21262758439002027
+[11:13:27] [Server thread/WARN]: JellyBeanQueen15 moved too quickly! 8.925581859926865,4.489952499623627,0.5748484502084921
+[11:15:05] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
+[11:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33195ms or 663 ticks behind
+[11:15:38] [Server thread/INFO]: CrZyGoaT37 lost connection: Disconnected
+[11:15:38] [Server thread/INFO]: CrZyGoaT37 left the game
+[11:15:38] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[11:15:38] [Server thread/INFO]: JellyBeanQueen15 left the game
+[11:15:41] [User Authenticator #16/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[11:15:41] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59757] logged in with entity id 143378 at ([world]571.8398626576545, 182.5013200512611, 1900.9037691545323)
+[11:22:07] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[11:22:07] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[11:32:17] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[11:32:17] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[11:38:48] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
+[11:38:48] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 553, 49, 1813 for JellyBeanQueen15]
+[11:38:52] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[11:38:52] [Server thread/INFO]: JellyBeanQueen15 left the game
+[12:57:41] [User Authenticator #17/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[12:57:41] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:60608] logged in with entity id 146548 at ([world]553.3734709879274, 49.0, 1813.314151472204)
+[12:59:43] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
+[12:59:43] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 583, 136, 1838 for JellyBeanQueen15]
+[12:59:50] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[12:59:50] [Server thread/INFO]: JellyBeanQueen15 left the game
+[13:02:24] [User Authenticator #18/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[13:02:24] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:60648] logged in with entity id 147015 at ([world]583.1780411522518, 136.0, 1838.401314464791)
+[13:02:51] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[13:02:51] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[13:03:04] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[13:03:04] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[13:13:34] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[13:13:34] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[13:23:47] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[13:23:47] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[13:25:38] [Server thread/INFO]: JellyBeanQueen15 issued server command: /effect give JellyBeanQueen15 minecraft:night_vision 999999
+[13:25:38] [Server thread/INFO]: [JellyBeanQueen15: Applied effect Night Vision to JellyBeanQueen15]
+[13:36:25] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[13:36:25] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[13:47:19] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[13:47:19] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[13:55:46] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[13:55:46] [Server thread/INFO]: JellyBeanQueen15 left the game
+[18:43:20] [User Authenticator #19/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[18:43:21] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:63173] logged in with entity id 156702 at ([world]572.5280313018011, 51.11650136792814, 1831.0620106253018)
+[18:50:46] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
+[18:50:46] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 564, 54, 1822 for JellyBeanQueen15]
+[18:58:45] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[18:58:45] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[18:59:39] [Server thread/ERROR]: Block at 620, 47, 1,875 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@47379fbf. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
+[19:08:56] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[19:08:56] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[19:17:25] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[19:17:25] [Server thread/INFO]: JellyBeanQueen15 left the game
+[19:40:40] [User Authenticator #20/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[19:40:40] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:63494] logged in with entity id 163699 at ([world]820.216331087679, 68.5, 1757.9596154950902)
+[19:42:37] [User Authenticator #21/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
+[19:42:37] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:49479] logged in with entity id 163981 at ([world]459.34999406202536, 181.37429331309653, 1824.6972308982665)
+[19:43:00] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[19:43:00] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[19:45:14] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:oak_planks
+[19:45:40] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:oak_planks
+[19:46:12] [User Authenticator #22/INFO]: UUID of player Dj_Carplid is a4161302-e917-4737-bb29-ea56dd4ed675
+[19:46:12] [Server thread/INFO]: Dj_Carplid[/24.23.255.210:50933] logged in with entity id 165344 at ([world]590.7306884954006, 142.0, 1487.548906712588)
+[19:46:13] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:oak_planks
+[19:46:19] [Server thread/INFO]: Dj_Carplid issued server command: /gamemode creative
+[19:46:19] [Server thread/INFO]: [Dj_Carplid: Set own game mode to Creative Mode]

@@ -1,155 +1,142 @@
-[10:19:04] [User Authenticator #11/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
-[10:19:04] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:65381] logged in with entity id 126043 at ([world]660.5, 140.0, 1552.5)
-[10:19:21] [Server thread/INFO]: CrZyGoaT37 fell from a high place
-[10:19:52] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode creative
-[10:19:52] [Server thread/INFO]: [CrZyGoaT37: Set own game mode to Creative Mode]
-[10:21:17] [Server thread/INFO]: CrZyGoaT37 issued server command: /spawnpoint
-[10:21:17] [Server thread/INFO]: [CrZyGoaT37: Set spawn point to 529, 63, 1862 for CrZyGoaT37]
-[10:21:22] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill @e
-[10:21:22] [Server thread/INFO]: CrZyGoaT37 fell out of the world
-[10:21:22] [Server thread/INFO]: [CrZyGoaT37: Killed 136 entities]
-[10:22:39] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:water
-[10:23:03] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:white_wool minecraft:air
-[10:23:35] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:white_wool minecraft:air
-[10:25:35] [Server thread/INFO]: CrZyGoaT37 issued server command: /effect give @s minecraft:night_vision 100000 250
-[10:25:35] [Server thread/INFO]: [CrZyGoaT37: Applied effect Night Vision to CrZyGoaT37]
-[10:31:03] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
-[10:31:03] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
-[10:38:07] [User Authenticator #12/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[10:38:07] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59492] logged in with entity id 130207 at ([world]592.681203387026, 142.89206780586915, 1485.4393451655687)
-[10:38:45] [Server thread/INFO]: JellyBeanQueen15 issued server command: /gamemode creative
-[10:38:45] [Server thread/INFO]: [JellyBeanQueen15: Set own game mode to Creative Mode]
-[10:38:49] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill
-[10:38:49] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
-[10:38:49] [Server thread/INFO]: [JellyBeanQueen15: Killed JellyBeanQueen15]
-[10:42:54] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[10:42:54] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[10:44:20] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[10:44:20] [Server thread/INFO]: JellyBeanQueen15 left the game
-[10:44:24] [User Authenticator #13/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[10:44:24] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59538] logged in with entity id 132220 at ([world]581.6999999880791, 140.14731997645077, 1850.199999988079)
-[10:44:31] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[10:44:31] [Server thread/INFO]: JellyBeanQueen15 left the game
-[10:44:54] [User Authenticator #14/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[10:44:54] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59549] logged in with entity id 132346 at ([world]581.6999999880791, 140.14731997645077, 1850.199999988079)
-[10:45:54] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[10:45:54] [Server thread/INFO]: JellyBeanQueen15 left the game
-[10:47:16] [User Authenticator #15/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[10:47:16] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59573] logged in with entity id 132836 at ([world]582.9029771943057, 142.60197697268538, 1835.5271290802405)
-[10:54:17] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[10:54:17] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[10:55:49] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill @e
-[10:55:49] [Server thread/INFO]: CrZyGoaT37 fell out of the world
-[10:55:49] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
-[10:55:49] [Server thread/INFO]: [CrZyGoaT37: Killed 273 entities]
-[10:57:23] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode adventure JellyBeanQueen15
-[10:57:23] [Server thread/INFO]: [CrZyGoaT37: Set JellyBeanQueen15's game mode to Adventure Mode]
-[10:57:37] [Server thread/INFO]: JellyBeanQueen15 issued server command: /gamemode creative
-[10:57:37] [Server thread/INFO]: [JellyBeanQueen15: Set own game mode to Creative Mode]
-[10:57:38] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode creative JellyBeanQueen15
-[10:58:15] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill JellyBeanQueen15
-[10:58:15] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
-[10:58:15] [Server thread/INFO]: [CrZyGoaT37: Killed JellyBeanQueen15]
-[11:01:33] [Server thread/INFO]: CrZyGoaT37 issued server command: /spawnpoint
-[11:01:33] [Server thread/INFO]: [CrZyGoaT37: Set spawn point to 583, 133, 1854 for CrZyGoaT37]
-[11:01:35] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
-[11:01:35] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 583, 137, 1834 for JellyBeanQueen15]
-[11:03:14] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
-[11:03:14] [Server thread/INFO]: CrZyGoaT37 fell out of the world
-[11:03:14] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
-[11:04:24] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:purple_wool minecraft:tnt
-[11:04:36] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
-[11:04:36] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
-[11:04:53] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time add 3d
-[11:04:53] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1338]
-[11:05:16] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:pink_wool minecraft:creeper_head
-[11:05:43] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill
-[11:05:43] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
-[11:05:43] [Server thread/INFO]: [JellyBeanQueen15: Killed JellyBeanQueen15]
-[11:06:06] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:creeper_head minecraft:pink_wool
-[11:06:17] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:tnt minecraft:purple_wool
-[11:06:47] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:purple_wool minecraft:water
-[11:06:50] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
-[11:06:51] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill
-[11:06:51] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
-[11:06:51] [Server thread/INFO]: [JellyBeanQueen15: Killed JellyBeanQueen15]
-[11:09:54] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
-[11:09:54] [Server thread/INFO]: CrZyGoaT37 fell out of the world
-[11:09:54] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
-[11:10:32] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:sponge
-[11:10:44] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
-[11:10:51] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
-[11:10:51] [Server thread/INFO]: CrZyGoaT37 fell out of the world
-[11:10:51] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
-[11:11:10] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set night
-[11:11:10] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 13000]
-[11:11:14] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
-[11:11:14] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
-[11:12:46] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:sponge
-[11:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40926ms or 818 ticks behind
-[11:13:27] [Server thread/WARN]: CrZyGoaT37 moved too quickly! 0.3941548627408338,10.312500617038765,-0.21262758439002027
-[11:13:27] [Server thread/WARN]: JellyBeanQueen15 moved too quickly! 8.925581859926865,4.489952499623627,0.5748484502084921
-[11:15:05] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
-[11:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33195ms or 663 ticks behind
-[11:15:38] [Server thread/INFO]: CrZyGoaT37 lost connection: Disconnected
-[11:15:38] [Server thread/INFO]: CrZyGoaT37 left the game
-[11:15:38] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[11:15:38] [Server thread/INFO]: JellyBeanQueen15 left the game
-[11:15:41] [User Authenticator #16/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[11:15:41] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:59757] logged in with entity id 143378 at ([world]571.8398626576545, 182.5013200512611, 1900.9037691545323)
-[11:22:07] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[11:22:07] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[11:32:17] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[11:32:17] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[11:38:48] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
-[11:38:48] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 553, 49, 1813 for JellyBeanQueen15]
-[11:38:52] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[11:38:52] [Server thread/INFO]: JellyBeanQueen15 left the game
-[12:57:41] [User Authenticator #17/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[12:57:41] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:60608] logged in with entity id 146548 at ([world]553.3734709879274, 49.0, 1813.314151472204)
-[12:59:43] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
-[12:59:43] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 583, 136, 1838 for JellyBeanQueen15]
-[12:59:50] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[12:59:50] [Server thread/INFO]: JellyBeanQueen15 left the game
-[13:02:24] [User Authenticator #18/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[13:02:24] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:60648] logged in with entity id 147015 at ([world]583.1780411522518, 136.0, 1838.401314464791)
-[13:02:51] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[13:02:51] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[13:03:04] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[13:03:04] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[13:13:34] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[13:13:34] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[13:23:47] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[13:23:47] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[13:25:38] [Server thread/INFO]: JellyBeanQueen15 issued server command: /effect give JellyBeanQueen15 minecraft:night_vision 999999
-[13:25:38] [Server thread/INFO]: [JellyBeanQueen15: Applied effect Night Vision to JellyBeanQueen15]
-[13:36:25] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[13:36:25] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[13:47:19] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[13:47:19] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[13:55:46] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[13:55:46] [Server thread/INFO]: JellyBeanQueen15 left the game
-[18:43:20] [User Authenticator #19/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[18:43:21] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:63173] logged in with entity id 156702 at ([world]572.5280313018011, 51.11650136792814, 1831.0620106253018)
-[18:50:46] [Server thread/INFO]: JellyBeanQueen15 issued server command: /spawnpoint
-[18:50:46] [Server thread/INFO]: [JellyBeanQueen15: Set spawn point to 564, 54, 1822 for JellyBeanQueen15]
-[18:58:45] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[18:58:45] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[18:59:39] [Server thread/ERROR]: Block at 620, 47, 1,875 is Block{minecraft:water} but has net.minecraft.server.v1_15_R1.TileEntityChest@47379fbf. Bukkit will attempt to fix this, but there may be additional damage that we cannot recover.
-[19:08:56] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
-[19:08:56] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
-[19:17:25] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
-[19:17:25] [Server thread/INFO]: JellyBeanQueen15 left the game
-[19:40:40] [User Authenticator #20/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
-[19:40:40] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:63494] logged in with entity id 163699 at ([world]820.216331087679, 68.5, 1757.9596154950902)
-[19:42:37] [User Authenticator #21/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
-[19:42:37] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:49479] logged in with entity id 163981 at ([world]459.34999406202536, 181.37429331309653, 1824.6972308982665)
-[19:43:00] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
-[19:43:00] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
-[19:45:14] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:oak_planks
-[19:45:40] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:oak_planks
-[19:46:12] [User Authenticator #22/INFO]: UUID of player Dj_Carplid is a4161302-e917-4737-bb29-ea56dd4ed675
-[19:46:12] [Server thread/INFO]: Dj_Carplid[/24.23.255.210:50933] logged in with entity id 165344 at ([world]590.7306884954006, 142.0, 1487.548906712588)
-[19:46:13] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:air minecraft:oak_planks
-[19:46:19] [Server thread/INFO]: Dj_Carplid issued server command: /gamemode creative
-[19:46:19] [Server thread/INFO]: [Dj_Carplid: Set own game mode to Creative Mode]
+[11:02:55] [User Authenticator #47/INFO]: UUID of player DrKiefer is 7ff7e205-a488-4a71-b09b-b56a0c54f294
+[11:02:56] [Server thread/INFO]: DrKiefer[/192.168.0.20:58286] logged in with entity id 273928 at ([world]458.30000001192093, 71.11154849069504, 1554.3986037002594)
+[11:03:38] [Server thread/INFO]: DrKiefer issued server command: /gamemode spectator
+[11:03:38] [Server thread/INFO]: [DrKiefer: Set own game mode to Spectator Mode]
+[11:03:44] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[11:03:44] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[11:05:01] [Server thread/INFO]: DrKiefer issued server command: //wand
+[11:05:27] [Server thread/INFO]: DrKiefer issued server command: //expand 5
+[11:05:31] [Server thread/INFO]: DrKiefer issued server command: //replace minecraft:air
+[11:05:41] [Server thread/INFO]: DrKiefer issued server command: /effect give DrKiefer minecraft:night_vision 400000
+[11:05:41] [Server thread/INFO]: [DrKiefer: Applied effect Night Vision to DrKiefer]
+[11:07:10] [Server thread/INFO]: DrKiefer issued server command: //expand 20 down
+[11:07:15] [Server thread/INFO]: DrKiefer issued server command: //replace minecraft:air
+[11:09:42] [Server thread/INFO]: DrKiefer issued server command: /give DrKiefer minecraft:command_block
+[11:09:42] [Server thread/INFO]: [DrKiefer: Gave 1 [Command Block] to DrKiefer]
+[11:10:07] [Server thread/INFO]: DrKiefer has reached the goal [Sky's the Limit]
+[11:11:13] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[11:11:13] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[11:11:18] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[11:11:18] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[11:11:20] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[11:11:20] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[11:11:28] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[11:11:28] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[11:11:35] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[11:11:35] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[11:11:47] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[11:11:47] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[11:26:47] [Server thread/INFO]: DrKiefer lost connection: Disconnected
+[11:26:47] [Server thread/INFO]: DrKiefer left the game
+[13:16:41] [User Authenticator #48/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[13:16:41] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:62463] logged in with entity id 274700 at ([world]605.3146799984506, 49.244318645462016, 1807.6244168064518)
+[13:18:37] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[13:18:37] [Server thread/INFO]: JellyBeanQueen15 left the game
+[17:56:00] [User Authenticator #49/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
+[17:56:00] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:50834] logged in with entity id 274892 at ([world]584.2971598627931, 98.68902564550503, 1834.7876967480531)
+[17:56:12] [Server thread/INFO]: CrZyGoaT37 issued server command: //undo
+[17:56:22] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:rail minecraft:air
+[17:57:39] [Server thread/INFO]: CrZyGoaT37 lost connection: Disconnected
+[17:57:39] [Server thread/INFO]: CrZyGoaT37 left the game
+[17:57:41] [User Authenticator #50/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
+[17:57:41] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:50838] logged in with entity id 274893 at ([world]586.1934090586041, 159.79176678861714, 1866.832648093406)
+[17:58:03] [Server thread/INFO]: CrZyGoaT37 lost connection: Disconnected
+[17:58:03] [Server thread/INFO]: CrZyGoaT37 left the game
+[17:58:41] [User Authenticator #51/INFO]: UUID of player CrZyGoaT37 is 7fc572f7-80ca-4382-9e38-616c80410632
+[17:58:41] [Server thread/INFO]: CrZyGoaT37[/47.144.158.80:50851] logged in with entity id 274894 at ([world]587.4505422137566, 135.0374802284665, 1784.140324743925)
+[17:58:54] [Server thread/INFO]: CrZyGoaT37 issued server command: /gamemode creative
+[17:58:54] [Server thread/INFO]: [CrZyGoaT37: Set own game mode to Creative Mode]
+[17:59:28] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:rail minecraft:air
+[18:00:07] [Server thread/INFO]: CrZyGoaT37 issued server command: //replace minecraft:rail minecraft:air
+[18:00:14] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[18:00:14] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[18:00:58] [User Authenticator #52/INFO]: UUID of player JellyBeanQueen15 is 258e0854-037f-41d9-a596-9f4e01970d41
+[18:00:58] [Server thread/INFO]: JellyBeanQueen15[/47.144.158.80:64482] logged in with entity id 275567 at ([world]637.6550452995184, 60.0, 1806.7208567274988)
+[18:10:35] [Server thread/INFO]: JellyBeanQueen15 issued server command: /time set day
+[18:10:35] [Server thread/INFO]: [JellyBeanQueen15: Set the time to 1000]
+[18:22:58] [Server thread/INFO]: CrZyGoaT37 issued server command: /time set day
+[18:22:58] [Server thread/INFO]: [CrZyGoaT37: Set the time to 1000]
+[18:25:29] [Server thread/INFO]: CrZyGoaT37 issued server command: /effect give @s minecraft:night_vision 1000000 250
+[18:25:29] [Server thread/INFO]: [CrZyGoaT37: Applied effect Night Vision to CrZyGoaT37]
+[18:35:11] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[18:35:11] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[18:35:11] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[18:35:17] [Server thread/INFO]: CrZyGoaT37 issued server command: /kill JellyBeanQueen15
+[18:35:17] [Server thread/INFO]: JellyBeanQueen15 fell out of the world
+[18:35:17] [Server thread/INFO]: [CrZyGoaT37: Killed JellyBeanQueen15]
+[18:35:30] [Server thread/INFO]: CrZyGoaT37 issued server command: /spawnpoint
+[18:35:30] [Server thread/INFO]: [CrZyGoaT37: Set spawn point to 576, 63, 1818 for CrZyGoaT37]
+[18:35:46] [Server thread/INFO]: JellyBeanQueen15 issued server command: /effect give JellyBeanQueen15 minecraft:night_vision 1000000
+[18:35:46] [Server thread/INFO]: [JellyBeanQueen15: Applied effect Night Vision to JellyBeanQueen15]
+[18:35:51] [Server thread/INFO]: CrZyGoaT37 issued server command: /effect give @s minecraft:night_vision 1000000 250
+[18:35:51] [Server thread/INFO]: [CrZyGoaT37: Applied effect Night Vision to CrZyGoaT37]
+[18:36:03] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill CrZyGoaT37
+[18:36:03] [Server thread/INFO]: CrZyGoaT37 fell out of the world
+[18:36:03] [Server thread/INFO]: [JellyBeanQueen15: Killed CrZyGoaT37]
+[18:36:19] [Server thread/INFO]: CrZyGoaT37 lost connection: Disconnected
+[18:36:19] [Server thread/INFO]: CrZyGoaT37 left the game
+[18:36:20] [Server thread/INFO]: JellyBeanQueen15 issued server command: /kill c
+[18:37:12] [Server thread/INFO]: JellyBeanQueen15 lost connection: Disconnected
+[18:37:12] [Server thread/INFO]: JellyBeanQueen15 left the game
+[20:30:28] [User Authenticator #53/INFO]: UUID of player DrKiefer is 7ff7e205-a488-4a71-b09b-b56a0c54f294
+[20:30:28] [Server thread/INFO]: DrKiefer[/192.168.0.20:62738] logged in with entity id 292230 at ([world]446.6733487912509, 35.125, 1552.355171771584)
+[20:58:37] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[20:58:37] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[20:58:39] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[20:58:39] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[20:58:41] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[20:58:41] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[20:58:56] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[20:58:56] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[20:59:27] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[20:59:27] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[20:59:39] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[20:59:39] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[20:59:45] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[20:59:45] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[21:00:16] [Server thread/INFO]: DrKiefer issued server command: /effect give DrKiefer minecraft:health_boost 10
+[21:00:16] [Server thread/INFO]: [DrKiefer: Applied effect Health Boost to DrKiefer]
+[21:00:38] [Server thread/INFO]: DrKiefer issued server command: /effect give DrKiefer minecraft:instant_health 10
+[21:00:38] [Server thread/INFO]: [DrKiefer: Applied effect Instant Health to DrKiefer]
+[21:00:44] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[21:00:44] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[21:00:49] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[21:00:49] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[21:00:52] [Server thread/INFO]: DrKiefer issued server command: /effect give DrKiefer minecraft:instant_health 10
+[21:00:52] [Server thread/INFO]: [DrKiefer: Applied effect Instant Health to DrKiefer]
+[21:01:00] [Server thread/INFO]: DrKiefer issued server command: /effect give DrKiefer minecraft:instant_health 10
+[21:01:00] [Server thread/INFO]: [DrKiefer: Applied effect Instant Health to DrKiefer]
+[21:01:17] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[21:01:17] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[21:01:38] [Server thread/INFO]: DrKiefer issued server command: /give DrKiefer minecraft:command_block
+[21:01:38] [Server thread/INFO]: [DrKiefer: Gave 1 [Command Block] to DrKiefer]
+[21:05:47] [Server thread/INFO]: DrKiefer issued server command: /gamemode spectator
+[21:05:47] [Server thread/INFO]: [DrKiefer: Set own game mode to Spectator Mode]
+[21:06:25] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[21:06:25] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[21:11:50] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[21:11:50] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[21:12:02] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[21:12:02] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[21:12:42] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[21:12:42] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[21:12:50] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[21:12:50] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[21:13:01] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[21:13:01] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[21:13:09] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[21:13:09] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[21:41:40] [Server thread/INFO]: DrKiefer issued server command: /effect clear DrKiefer
+[21:41:40] [Server thread/INFO]: [DrKiefer: Removed every effect from DrKiefer]
+[22:10:47] [Server thread/INFO]: DrKiefer issued server command: /gamemode survival
+[22:10:47] [Server thread/INFO]: [DrKiefer: Set own game mode to Survival Mode]
+[22:10:53] [Server thread/WARN]: DrKiefer moved wrongly!
+[22:10:53] [Server thread/WARN]: DrKiefer moved wrongly!
+[22:11:02] [Server thread/WARN]: DrKiefer moved wrongly!
+[22:11:03] [Server thread/WARN]: DrKiefer moved wrongly!
+[22:11:11] [Server thread/INFO]: DrKiefer issued server command: /gamemode creative
+[22:11:11] [Server thread/INFO]: [DrKiefer: Set own game mode to Creative Mode]
+[22:29:26] [Server thread/INFO]: DrKiefer issued server command: /gamemode spectator
+[22:29:26] [Server thread/INFO]: [DrKiefer: Set own game mode to Spectator Mode]
+[22:30:54] [Server thread/INFO]: DrKiefer lost connection: Disconnected
+[22:30:54] [Server thread/INFO]: DrKiefer left the game
